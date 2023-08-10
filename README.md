@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SzymonMazurekAGH
+- 👋 Hi, I’m Szymon Mazurek
 - AI and Data science
 - AI in medicine (brain stuff)
 - Anything AI and neurology related? I'm in!
